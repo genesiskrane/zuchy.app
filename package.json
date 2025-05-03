@@ -1,0 +1,30 @@
+{
+	"name": "zuchy.app",
+	"version": "1.0.0",
+	"description": "Online Wine Market App",
+	"keywords": [
+		"Wine",
+		"Market"
+	],
+	"homepage": "https://github.com/genesiskrane/zuchy.app#readme",
+	"bugs": {
+		"url": "https://github.com/genesiskrane/zuchy.app/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/genesiskrane/zuchy.app.git"
+	},
+	"license": "ISC",
+	"author": "Genesis Krane",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^5.1.0",
+		"morgan": "^1.10.0"
+	}
+}
