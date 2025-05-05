@@ -1,0 +1,1 @@
+import{_ as o,f as n,g as r,d as t,o as s}from"./index-BRxPx5sh.js";const a={};function c(d,e){return s(),n("div",null,e[0]||(e[0]=[r("p",{class:"bg-red"},[t(" Zuchy - A Wine Market "),r("br"),t(" Under Development ")],-1)]))}const f=o(a,[["render",c]]);export{f as default};
