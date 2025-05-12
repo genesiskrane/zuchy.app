@@ -1,1 +1,0 @@
-import{_ as o,g as n,d as r,e as t,o as s}from"./index-BE2ITJHv.js";const a={};function c(d,e){return s(),n("div",null,e[0]||(e[0]=[r("p",{class:"bg-red"},[t(" Zuchy - A Wine Market "),r("br"),t(" Under Development ")],-1)]))}const _=o(a,[["render",c]]);export{_ as default};
