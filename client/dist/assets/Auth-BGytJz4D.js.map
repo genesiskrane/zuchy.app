@@ -1,0 +1,1 @@
+{"version":3,"file":"Auth-BGytJz4D.js","sources":["../../src/layouts/auth/Auth.vue"],"sourcesContent":["<template>\r\n\t<v-container>\r\n\t\t<router-view></router-view>\r\n\t</v-container>\r\n</template>\r\n"],"names":["_openBlock","_createBlock","_component_v_container","_withCtx"],"mappings":"6IAAA,OAAAA,EAEE,EAA2BC,EAAAC,EAAA,KAAA,SAAAC,EAAA,IAAA,MAF7B"}
